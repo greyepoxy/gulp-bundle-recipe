@@ -1,0 +1,8 @@
+{
+	"bundle": {
+		"taskName":"bundle",
+		"watchTaskName":"autoBundle",
+		"outDir": "./dist/bundles",
+		"rootSrcFiles": ["./dist/index.js"]
+	}
+}
